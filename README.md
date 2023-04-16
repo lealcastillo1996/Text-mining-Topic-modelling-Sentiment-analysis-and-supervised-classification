@@ -4,6 +4,6 @@ The file contains 4 sections:
 
 2.- NLP, Regex filtering, Entity recognition, TF-IDF Topic modelling with k-means and LDA
 
-3.- Supervised clasification: Logistic regression
+3.- Supervised classification: Logistic regression
 
-4.- Supervised clasification: BIRD models
+4.- Supervised classification: BIRD models
